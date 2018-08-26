@@ -1,0 +1,6 @@
+/Users/phillipzhang/Work/git/AlgorithmCourse/CountingInversion/CountingInversion/bin/Debug/CountingInversion.exe
+/Users/phillipzhang/Work/git/AlgorithmCourse/CountingInversion/CountingInversion/bin/Debug/CountingInversion.pdb
+/Users/phillipzhang/Work/git/AlgorithmCourse/CountingInversion/CountingInversion/obj/x86/Debug/CountingInversion.csprojResolveAssemblyReference.cache
+/Users/phillipzhang/Work/git/AlgorithmCourse/CountingInversion/CountingInversion/obj/x86/Debug/CountingInversion.csproj.CoreCompileInputs.cache
+/Users/phillipzhang/Work/git/AlgorithmCourse/CountingInversion/CountingInversion/obj/x86/Debug/CountingInversion.exe
+/Users/phillipzhang/Work/git/AlgorithmCourse/CountingInversion/CountingInversion/obj/x86/Debug/CountingInversion.pdb

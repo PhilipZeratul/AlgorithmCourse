@@ -1,0 +1,6 @@
+/Users/phillipzhang/Work/git/AlgorithmCourse/KaratsubaMultiplication/KaratsubaMultiplication/bin/Debug/KaratsubaMultiplication.exe
+/Users/phillipzhang/Work/git/AlgorithmCourse/KaratsubaMultiplication/KaratsubaMultiplication/bin/Debug/KaratsubaMultiplication.pdb
+/Users/phillipzhang/Work/git/AlgorithmCourse/KaratsubaMultiplication/KaratsubaMultiplication/obj/x86/Debug/KaratsubaMultiplication.csprojResolveAssemblyReference.cache
+/Users/phillipzhang/Work/git/AlgorithmCourse/KaratsubaMultiplication/KaratsubaMultiplication/obj/x86/Debug/KaratsubaMultiplication.csproj.CoreCompileInputs.cache
+/Users/phillipzhang/Work/git/AlgorithmCourse/KaratsubaMultiplication/KaratsubaMultiplication/obj/x86/Debug/KaratsubaMultiplication.exe
+/Users/phillipzhang/Work/git/AlgorithmCourse/KaratsubaMultiplication/KaratsubaMultiplication/obj/x86/Debug/KaratsubaMultiplication.pdb
