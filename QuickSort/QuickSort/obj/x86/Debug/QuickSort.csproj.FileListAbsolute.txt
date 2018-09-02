@@ -1,0 +1,6 @@
+/Users/phillipzhang/Work/git/AlgorithmCourse/QuickSort/QuickSort/bin/Debug/QuickSort.exe
+/Users/phillipzhang/Work/git/AlgorithmCourse/QuickSort/QuickSort/bin/Debug/QuickSort.pdb
+/Users/phillipzhang/Work/git/AlgorithmCourse/QuickSort/QuickSort/obj/x86/Debug/QuickSort.csprojResolveAssemblyReference.cache
+/Users/phillipzhang/Work/git/AlgorithmCourse/QuickSort/QuickSort/obj/x86/Debug/QuickSort.csproj.CoreCompileInputs.cache
+/Users/phillipzhang/Work/git/AlgorithmCourse/QuickSort/QuickSort/obj/x86/Debug/QuickSort.exe
+/Users/phillipzhang/Work/git/AlgorithmCourse/QuickSort/QuickSort/obj/x86/Debug/QuickSort.pdb
