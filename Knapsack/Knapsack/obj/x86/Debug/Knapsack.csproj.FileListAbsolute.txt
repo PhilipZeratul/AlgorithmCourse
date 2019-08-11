@@ -1,0 +1,6 @@
+/Users/phillipzhang/Work/git/Course_Algorithm/Knapsack/Knapsack/obj/x86/Debug/Knapsack.csprojAssemblyReference.cache
+/Users/phillipzhang/Work/git/Course_Algorithm/Knapsack/Knapsack/obj/x86/Debug/Knapsack.csproj.CoreCompileInputs.cache
+/Users/phillipzhang/Work/git/Course_Algorithm/Knapsack/Knapsack/bin/Debug/Knapsack.exe
+/Users/phillipzhang/Work/git/Course_Algorithm/Knapsack/Knapsack/bin/Debug/Knapsack.pdb
+/Users/phillipzhang/Work/git/Course_Algorithm/Knapsack/Knapsack/obj/x86/Debug/Knapsack.exe
+/Users/phillipzhang/Work/git/Course_Algorithm/Knapsack/Knapsack/obj/x86/Debug/Knapsack.pdb
